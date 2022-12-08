@@ -32,3 +32,7 @@
 .todo-complete-button:hover {
   background: rgb(31, 240, 77);
 }
+.detail-click {
+  width: 25%;
+  cursor: pointer;
+}

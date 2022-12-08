@@ -7,6 +7,7 @@ function Todo(props) {
   return (
     <div className="todo-box">
       <div
+        className="detail-click"
         onClick={() => {
           navigate(`/detail/${props.todo.id}`);
         }}
