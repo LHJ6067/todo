@@ -1,0 +1,7 @@
+.list-container {
+  padding: 0 24px;
+  background-color: white;
+}
+.list-wrapper {
+  display: flex;
+}
